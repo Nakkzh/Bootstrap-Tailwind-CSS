@@ -1,10 +1,9 @@
 # Sistema de Gerenciamento de Estoque
 
-Sistema web responsivo desenvolvido com **Bootstrap 5** para gerenciamento de produtos e controle de estoque.
-
 ## Descrição do Projeto
 
 Este projeto foi desenvolvido como atividade acadêmica para demonstrar as capacidades do framework Bootstrap na criação de interfaces web modernas, responsivas e funcionais. O sistema permite gerenciar produtos, controlar estoque e visualizar informações em um dashboard intuitivo.
+Esse sistema não tem intenção de ser funcional ou ter um banco de dados aplicados nele, foi feito apenas para demonstração do Bootstrap.
 
 ## Tecnologias Utilizadas
 
@@ -45,19 +44,6 @@ Este projeto foi desenvolvido como atividade acadêmica para demonstrar as capac
 - Modal para ajuste de estoque
 - Ações: Editar, Excluir, Ajustar
 
-## Funcionalidades Implementadas
-
-- Design 100% responsivo (mobile-first)
-- Validação de formulários
-- Feedback visual de ações
-- Sistema de busca e filtros
-- Modals para ações secundárias
-- Indicadores visuais de status
-- Navegação consistente
-- Animações suaves
-- Ícones informativos
-- Paginação de resultados
-
 ## Boas Práticas Aplicadas
 
 ### Design
@@ -88,5 +74,3 @@ O sistema é totalmente responsivo e se adapta a:
 - Tablets (768px - 991px)
 - Laptops (992px - 1199px)
 - Desktops (1200px+)
-
----
